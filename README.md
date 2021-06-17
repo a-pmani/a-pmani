@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-pmani
 - 👀 I’m interested in NLP & Data Analytics
-- 🌱 I’m currently learning Pyspark
+- 🌱 I’m currently learning Pyspark and Neo4j
 - 💞️ I’m looking to collaborate on NLP and ML projects 
 - 📫 How to reach me alarmelu.pm@gmail.com
 
